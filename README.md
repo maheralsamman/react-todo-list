@@ -1,3 +1,8 @@
+This is a React Todo list app using (React - semantic html - Css with BEM - JavaScript - state - localStorage and some features)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
