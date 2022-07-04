@@ -108,7 +108,7 @@
   opacity: 0.5;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 769px) {
   .form__submit {
     align-self: self-end;
     padding: 0.3em 1.2em;
