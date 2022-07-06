@@ -6,7 +6,7 @@ import Todos from "./components/Todos";
 
 function App() {
   const [todos, setTodos] = useState([]);
-
+//get items from local storage
   const localStorageGet = () => 
   window.localStorage.getItem("todos");
 
